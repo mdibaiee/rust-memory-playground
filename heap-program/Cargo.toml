@@ -1,0 +1,10 @@
+[package]
+name = "heap-program"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dhat = "0.3.0"
+
+[features]
+dhat-heap = []    # if you are doing heap profiling
