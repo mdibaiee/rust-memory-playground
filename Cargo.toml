@@ -1,2 +1,2 @@
 [workspace]
-members = ["stack-program", "heap-program"]
+members = ["stack-program", "stack-and-heap-program", "string-program", "box-str-program", "string-dhat", "box-str-dhat"]

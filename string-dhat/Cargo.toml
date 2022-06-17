@@ -1,0 +1,7 @@
+[package]
+name = "string-dhat"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dhat = "0.3.0"
